@@ -2,7 +2,8 @@
 Hello community members! 
 Myself Akshay kalyan known as MRA712 on github.
 
-This is a read me file for my project on HR attrition data visualization dashboard.######################################################################################
+This is a read me file for my project on HR attrition data visualization dashboard.
+######################################################################################
 
 
 Welcome to my Power BI project on HR Attrition data analysis!
